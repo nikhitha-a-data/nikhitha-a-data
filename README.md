@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Nikhitha 👋
 
-<!--
-**nikhitha-a-data/nikhitha-a-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ex-Django backend developer with a 2-year break spent upskilling in data analysis and workflow automation. 
 
-Here are some ideas to get you started:
+Now leveraging an engineering background to build end-to-end data flows, automated pipelines, and actionable business dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Toolkit
+* **Data & Analytics:** SQL, Python (Pandas, NumPy), Power BI, Microsoft Fabric
+* **Automation & Dataflows:** n8n, Dataflow Gen2
+* **Backend Foundations:** Django, MySQL, PostgreSQL, Git
+
+---
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/nikhithaadurofficial)
