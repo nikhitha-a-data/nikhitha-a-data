@@ -2,7 +2,7 @@
 
 ### Analytics Engineer | Data Analyst (Ex-Django Developer)
 📍 Bengaluru, India  
-💼 [LinkedIn](https://linkedin.com) | 📧 nikhithaadur@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/nikhithaadurofficial) | 📧 nikhithaadur@gmail.com
 
 ---
 
@@ -21,15 +21,15 @@ I am a **Computer Science Engineer** transitioning from **Django Backend Develop
 
 ## 📊 Highlighted Portfolio Projects
 
-### 🚖 [Goodcabs Transportation Analytics](https://github.com)
+### 🚖 [Goodcabs Transportation Analytics]([https://github.com](https://github.com/nikhitha-a-data/Goodcabs-Transportation-Analytics))
 *   **The Tech:** Power BI, DAX, SQL, n8n Automation, MySQL
 *   **The Architecture:** Engineered an automated ETL pipeline using **n8n** to parse high-volume trip logs into **MySQL**, eliminating system memory crashes during batch loads.
 *   **The Impact:** Analyzed metrics across **426K+ trips and ₹108M in revenue** across 10 cities to isolate driver cancellation patterns.
 
-### 📦 [AtLiQ Consumer Goods – Sales Audit](https://github.com)
+### 📦 [AtLiQ Consumer Goods – Sales Audit]((https://github.com/nikhitha-a-data/AtliQ-Consumer-Goods))
 *   **The Tech:** Power BI, Advanced DAX, SQL, Star Schema Data Modeling
 *   **The Impact:** Audited over **$1.7B in net sales across 1M+ rows** of transactional data, successfully exposing a 14% discount leak and recapturing $50M in profit leakage.
 
-### 🎬 [OTT Media Analytics – User Retention](https://github.com)
+### 🎬 [OTT Media Analytics – User Retention]((https://github.com/nikhitha-a-data/OTT-Media-User-Retention))
 *   **The Tech:** Microsoft Fabric, Medallion Architecture, Python, Power BI
 *   **The Impact:** Processed over **16M+ streaming hours across 228K active users** inside Microsoft Fabric to track real-time churn metrics and isolate factors behind a 61% user retention rate.
