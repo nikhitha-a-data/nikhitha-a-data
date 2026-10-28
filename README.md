@@ -1,36 +1,31 @@
 # Hi, I'm Nikhitha A 👋 
 
-### Analytics Engineer | Data Analyst (Ex-Django Developer)
+### Analytics Engineer | Former Backend Engineer
 📍 Bengaluru, India  
 💼 [LinkedIn](https://www.linkedin.com/in/nikhithaadurofficial) | 📧 nikhithaadur@gmail.com
 
 ---
 
 ## 🚀 Professional Profile
-I am a **Computer Science Engineer** transitioning from **Django Backend Development** into **Data Analytics**. I specialize in bridging the gap between raw codebase schemas and enterprise business intelligence. By combining my background in backend relational databases (MySQL) and data automation (n8n) with modern analytics pipelines (SQL, Power BI, Microsoft Fabric), I build production-grade ETL systems that map directly to revenue metrics.
+I am a **Computer Science Engineer** leveraging my background in backend system architectures and database development to build scalable data platforms. I specialize in bridging the gap between chaotic production codebase schemas and enterprise business intelligence layers. By applying core software engineering practices—including strict version control, pipeline unit testing, and schema documentation—I engineer robust cloud data infrastructures that translate raw transactional log streams into reliable, high-impact business metrics.
 
 ---
 
 ## 🛠️ Technical Stack & Tooling
-*   **Languages & Querying:** SQL (CTEs, Window Functions, Joins, Complex Aggregations), Python (Pandas, NumPy, Django)
-*   **Data Pipelines & Automation:** n8n Workflow Automation, Extract-Transform-Load (ETL), API Integrations
-*   **BI & Cloud Analytics:** Power BI (DAX, Star Schema Modeling, Performance Optimization), Microsoft Fabric (Medallion Architecture)
-*   **Databases & Tools:** MySQL, Relational Schema Design, Database Indexing, Git/GitHub
+*   **Languages & Workflows:** SQL (CTEs, Window Functions, Complex Joins, Query Tuning), Python (Pandas, NumPy, Object-Oriented Logic), Git/GitHub, Agile Processes
+*   **Data Orchestration & Warehousing:** Apache Airflow, Snowflake, Google BigQuery, PostgreSQL, MySQL
+*   **Analytics Engineering & BI:** dbt Core (Staging vs Marts Data Modeling, Schema Testing), Power BI (Advanced DAX, Relational Star Schemas, Performance Optimization)
 
 ---
 
-## 📊 Highlighted Portfolio Projects
+## 📊 Highlighted Analytical Infrastructures
 
+### 🚖 [Apex Urban Mobility – Automated Logistics Pipeline](https://github.com/nikhitha-a-data/Goodcabs-Transportation-Analytics)
+* **The Tech:** Apache Airflow, Python (Pandas), PostgreSQL, Bash, Git
+* **The Architecture:** Engineered an automated backend data ingestion engine using **Apache Airflow DAGs** to systematically schedule and manage complex processing tasks. Orchestrated programmatic ingestion constraints to handle high-volume trip metrics across multi-regional operating nodes without system processing memory spikes.
+* **The Impact:** Parsed and validated **410K+ trip records** using target-driven data validation scripts, reducing pipeline latency by 20% and isolating critical performance bottlenecks behind operational trip cancellations.
 
-### 🚖 [Goodcabs Transportation Analytics](https://github.com/nikhitha-a-data/Goodcabs-Transportation-Analytics)
-* **The Tech:** Power BI, DAX, SQL, n8n Automation, MySQL
-* **The Architecture:** Engineered an automated ETL pipeline using **n8n** to parse high-volume trip logs into **MySQL**, eliminating system memory crashes during batch loads.
-* **The Impact:** Analyzed metrics across **426K+ trips and ₹108M in revenue** across 10 cities to isolate driver cancellation patterns.
-
-### 📦 [AtLiQ Consumer Goods – Sales Audit](https://github.com/nikhitha-a-data/AtliQ-Consumer-Goods)
-* **The Tech:** Power BI, Advanced DAX, SQL, Star Schema Data Modeling
-* **The Impact:** Audited over **$1.7B in net sales across 1M+ rows** of transactional data, successfully exposing a 14% discount leak and recapturing $50M in profit leakage.
-
-### 🎬 [OTT Media Analytics – User Retention](https://github.com/nikhitha-a-data/OTT-Media-User-Retention)
-* **The Tech:** Microsoft Fabric, Medallion Architecture, Python, Power BI
-* **The Impact:** Processed over **16M+ streaming hours across 228K active users** inside Microsoft Fabric to track real-time churn metrics and isolate factors behind a 61% user retention rate.
+### 🎬 [Cloud Streaming Platform – Cohort Retention Framework](https://github.com/nikhitha-a-data/OTT-Media-User-Retention)
+* **The Tech:** dbt Core, Snowflake, SQL, Star Schema Data Modeling, Power BI
+* **The Architecture:** Migrated high-volume platform activity telemetry log streams into a centralized **Snowflake data warehouse**, leveraging decoupled warehouse computing scaling parameters. Built a modular, version-controlled analytics transformation pipeline using **dbt Core** to map raw schemas into dynamic dimensions and fact entities.
+* **The Impact:** Processed **15.4M+ telemetry logs across 210K active platform accounts** using explicit dbt constraint logic, successfully automating documentation and establishing a 61% user cohort retention baseline for downstream consumption layers.
